@@ -1,0 +1,23 @@
+{
+  "name": "amalyot",
+  "version": "1.0.0",
+  "description": "node_js api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "rest"
+  ],
+  "author": "Abuzar Raxmonov",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "uuid": "^10.0.0"
+  }
+}
